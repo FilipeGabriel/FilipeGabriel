@@ -1,16 +1,110 @@
-## Hi there 👋
+<h1>Filipe Gabriel</h1>
 
-<!--
-**FilipeGabriel/FilipeGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
+<div align="center">
+    <p>Olá! Sou apaixonado pelo desenvolvimento de software com uma afinidade especial por Java, minha linguagem favorita. Além de codificar, adoro me manter 
+      ativo praticando esportes, mergulhar em novos games e apreciar uma boa xícara de café. Acredito que a combinação de um bom código, um jogo empolgante e 
+      uma excelente bebida é a receita perfeita para um dia produtivo e satisfatório. Estou sempre em busca de novos desafios e oportunidades para crescer no 
+      mundo da tecnologia e além!</p>
 
-Here are some ideas to get you started:
+  ##
+  
+  </br>  
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=FilipeGabriel&theme=transparent&bg_color=35495E&border_color=FFF&show_icons=true&icon_color=FFF&title_color=2CA5E0&text_color=FFF&hide=stars" alt="GitHub Stats" />
+  </div>
+</div>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Índice
+
+</br>
+
+- [Minha-Redes](#minhas-redes)
+- [Habilidades](#habilidades)
+
+</br>
+
+## Minhas redes
+
+</br>
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/filipe-gabriel-8696382a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://github.com/FilipeGabriel">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
+  <a href="mailto:filipegabriel11@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" alt="E-mail" />
+  </a>
+  </br>
+</p>
+</br>
+
+## Habilidades
+
+</br>
+
+<h3 align="center">Linguagens de Marcação e Estilo</h3>
+
+</br>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+</p>
+</br>
+
+<h3 align="center">Linguagens de Programação</h3>
+
+</br>
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescrypt" />
+</p>
+</br>
+
+<h3 align="center">Bibliotecas e Frameworks</h3>
+
+</br>
+<p align="center">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
+  <img src="https://img.shields.io/badge/boostrap-0D1136?style=for-the-badge&logo=bootstrap&labelColor=0D1117" alt="bootstrap" />
+</p>
+</br>
+
+<h3 align="center">Banco de Dados</h3>
+
+</br>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" alt="postgres" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-000?style=for-the-badge" alt="sqlserver" />
+</p>
+</br>
+
+<h3 align="center">Sistema Operacional</h3>
+
+</br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0" alt="windows" />
+  <img src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0" alt="ubuntu" />
+</p>
+</br>
+
+<h3 align="center">Ferramentas</h3>
+
+</br>
+<p align="center">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+  <img src="https://img.shields.io/badge/Intellij-4B275F.svg?style=for-the-badge&logoColor=white" alt="intellij" />
+  <img src="https://img.shields.io/badge/Spring_Tools_Suite-239120.svg?style=for-the-badge&logoColor=white" alt="sts" />
+  <img src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma" alt="figma" />
+</p>
+</br></br>
