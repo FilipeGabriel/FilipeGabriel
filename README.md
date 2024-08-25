@@ -6,14 +6,8 @@
       ativo praticando esportes, mergulhar em novos games e apreciar uma boa xícara de café. Acredito que a combinação de um bom código, um jogo empolgante e 
       uma excelente bebida é a receita perfeita para um dia produtivo e satisfatório. Estou sempre em busca de novos desafios e oportunidades para crescer no 
       mundo da tecnologia e além!</p>
-
-  ##
-  
-  </br>  
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=FilipeGabriel&theme=transparent&bg_color=35495E&border_color=FFF&show_icons=true&icon_color=FFF&title_color=2CA5E0&text_color=FFF&hide=stars" alt="GitHub Stats" />
-  </div>
 </div>
+
 </br>
 
 ## Minhas redes
@@ -96,5 +90,3 @@
     </tr>
   </tbody>
 </table>
-
-</br></br>
